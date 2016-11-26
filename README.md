@@ -1,2 +1,2 @@
 # my-one-page
-código do meu portfólio.
+Código do meu portfólio.
